@@ -59,8 +59,10 @@ class Lesetro:
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🎂 **[TortasApp](https://github.com/Lesetro)** | E-commerce de tortas con carrito, pagos, roles y más | C#, ASP.NET MVC, EF Core, SQL Server |
-| 🔜 *Próximamente...* | Siempre hay algo cocinándose 🍳 | Python, más por venir |
+| 🎂 **[TortasApp](https://github.com/Lesetro)** | E-commerce completo de tortas: carrito, pagos, roles, JWT, SignalR y más | C#, ASP.NET MVC, EF Core, SQL Server |
+| 🏥 **[Sistema Hospitalario](https://github.com/lesetro/Sistema-hospitalario)** | Sistema web para gestión de turnos, pacientes y médicos | Node.js, Pug, JavaScript |
+| 🏠 **[Inmobiliaria Troncoso](https://github.com/lesetro/InmobiliariaTroncosoLeandro)** | Plataforma web para gestión y publicación de propiedades inmobiliarias | Node.js, Raz, JavaScript |
+| 🔜 *Próximamente...* | Siempre hay algo cocinándose 🍳 | Python |
 
 > 💡 *Cada proyecto es un paso — aunque todavía no esté terminado, ya es progreso.*
 
@@ -86,7 +88,7 @@ class Lesetro:
 - 🐍 Haciendo una **Diplomatura en Python**
 - 🇬🇧 Aprendiendo **inglés** en instituto
 - 🔨 Construyendo proyectos reales para aprender haciendo
-- 🎯 Meta: ser un dev que resuelve problemas de verdad
+- 🎯 Meta: ser un dev que resuelve
 
 ---
 
