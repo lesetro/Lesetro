@@ -1,113 +1,128 @@
 <div align="center">
 
-# Hey, soy Lesetro 👋
-### 🚀 Estudiante de Desarrollo de Software | Construyendo mi camino línea por línea
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Software+Development+Student+%F0%9F%93%9A;Python+Learner+%F0%9F%90%8D;English+in+Progress+%F0%9F%87%AC%F0%9F%87%A7;Always+building+something+new+%F0%9F%94%A8)](https://git.io/typing-svg)
+# Leandro Troncoso
+**Estudiante de Desarrollo de Software — Tecnicatura | 3er año**
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-```python
-class Lesetro:
-    def __init__(self):
-        self.rol         = "Estudiante de Desarrollo de Software"
-        self.aprendiendo = ["Python 🐍", "Inglés 🇬🇧", "ASP.NET MVC ⚙️"]
-        self.estado      = "En construcción... y eso está bien 🏗️"
-        self.objetivo    = "Crecer, colaborar y dejar código limpio"
+Soy estudiante de la Tecnicatura en Desarrollo de Software, actualmente en el último tramo de la carrera. A lo largo de estos años fui construyendo proyectos reales que me permitieron aplicar y consolidar lo aprendido en cada materia.
 
-    def fun_fact(self):
-        return "Todavía no terminé nada, pero empecé todo 💪"
-```
+Me interesa escribir código que funcione bien, que sea ordenado y que resuelva problemas concretos. Aprendo de forma autónoma y me gusta ir más allá de los requisitos mínimos de cada trabajo práctico.
 
-> 🎓 Cursando una **diplomatura en Python** y estudiando **inglés** en paralelo.
-> Soy de los que aprenden haciendo — cada proyecto es una nueva lección.
+Además de la tecnicatura, estoy cursando una **Diplomatura en Python** y tomando clases de **inglés** de forma paralela — dos áreas en las que busco seguir creciendo.
 
 ---
 
-## 🛠️ Stack & Tecnologías
+## Formación
+
+| | |
+|---|---|
+| 📘 Tecnicatura en Desarrollo de Software | 3er año — cursando últimas materias |
+| 🐍 Diplomatura en Python | En curso |
+| 🇬🇧 Inglés | En curso — instituto presencial |
+
+---
+
+## Tecnologías
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white)
+![Razor](https://img.shields.io/badge/Razor-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+**Mobile**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<sub>*(Android en desarrollo — próximos meses)*</sub>
+
+**APIs & Servicios**
+
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Bases de datos y ORM**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Proyectos
+
+### 🏥 [Sistema Hospitalario](https://github.com/lesetro/Sistema-hospitalario)
+> Trabajo Práctico Integrador — Programación Web 2
+
+Sistema de gestión hospitalaria completo con 4 roles diferenciados: Administrativo, Médico, Enfermero y Paciente. Incluye gestión de turnos, internaciones, asignación de camas, facturación con obras sociales, historial clínico y lista de espera con prioridades. Base de datos con 43 tablas relacionadas.
+
+`Node.js` `Express` `Sequelize` `MariaDB` `Pug` `JWT` `Bootstrap 5` `Docker`
+
+---
+
+### 🏠 [Sistema de Gestión Inmobiliaria](https://github.com/lesetro/InmobiliariaTroncosoLeandro)
+> Trabajo Práctico — Laboratorio de Programación 2
+
+Sistema web para administración de una inmobiliaria. Permite gestionar propiedades, contratos de alquiler y compraventa, pagos con cálculo automático de mora, comprobantes digitales y reportes. 4 roles: Administrador, Empleado, Propietario e Inquilino.
+
+`ASP.NET Core MVC` `MySQL` `ADO.NET` `Bootstrap 5` `BCrypt` `Cookie Auth`
+
+---
+
+### 🎂 [TortasApp](https://github.com/Lesetro)
+> Proyecto Personal
+
+E-commerce de tortas artesanales con carrito de compras en sesión, sistema de pagos, roles de usuario, autenticación con JWT y notificaciones en tiempo real con SignalR.
+
+`C#` `ASP.NET MVC` `Entity Framework Core` `SQL Server` `JWT` `SignalR`
+
+---
+
+## Estadísticas
 
 <div align="center">
 
-### Trabajando con:
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lesetro&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-### Herramientas:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Aprendiendo ahora:
-![Tecnicatura](https://img.shields.io/badge/Tecnicatura_Desarrollo_de_Software-3er_año_🏁-6E40C9?style=for-the-badge)
-![Python](https://img.shields.io/badge/Diplomatura_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![English](https://img.shields.io/badge/English-🇬🇧_In_Progress-blue?style=for-the-badge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesetro&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 📌 Proyectos Destacados
+## Contacto
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🎂 **[TortasApp](https://github.com/Lesetro)** | E-commerce completo de tortas: carrito, pagos, roles, JWT, SignalR y más | C#, ASP.NET MVC, EF Core, SQL Server |
-| 🏥 **[Sistema Hospitalario](https://github.com/lesetro/Sistema-hospitalario)** | Sistema web para gestión de turnos, pacientes y médicos | Node.js, Pug, JavaScript |
-| 🏠 **[Inmobiliaria Troncoso](https://github.com/lesetro/InmobiliariaTroncosoLeandro)** | Plataforma web para gestión y publicación de propiedades inmobiliarias | Node.js, Raz, JavaScript |
-| 🔜 *Próximamente...* | Siempre hay algo cocinándose 🍳 | Python |
-
-> 💡 *Cada proyecto es un paso — aunque todavía no esté terminado, ya es progreso.*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lesetro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesetro&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Lesetro&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌱 Mi camino ahora mismo
-
-- 📚 **Tecnicatura en Desarrollo de Software** — 3er año, últimas materias 🏁
-- 🐍 Haciendo una **Diplomatura en Python**
-- 🇬🇧 Aprendiendo **inglés** en instituto
-- 🔨 Construyendo proyectos reales para aprender haciendo
-- 🎯 Meta: ser un dev que resuelve
-
----
-
-## 📬 Contacto
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lesetro-181717?style=for-the-badge&logo=github)](https://github.com/Lesetro)
-
-*¿Querés colaborar o simplemente charlar sobre código? ¡Escribime!* 🤝
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-lesetro-181717?style=flat-square&logo=github)](https://github.com/Lesetro)
 
 ---
 
 <div align="center">
-
-### ⚡ *"No terminé todo todavía — pero estoy en eso."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Lesetro&color=6E40C9&style=flat-square&label=Visitas+al+perfil)
-
+<sub>Abierto a colaboraciones y oportunidades de aprendizaje.</sub>
 </div>
